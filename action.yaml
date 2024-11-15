@@ -1,4 +1,4 @@
-name: "owasp-dep-scan"
+name: "j-owasp-dep-scan"
 description: "dep-scan is a fully open-source security audit tool for project dependencies based on known vulnerabilities and advisories."
 inputs:
   src:
